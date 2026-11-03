@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+database.sql
+.env
+._DS_Store
+/docs
+._*
