@@ -52,14 +52,14 @@ designed as an academic project and runs locally using **XAMPP**.
 
 ## 🧰 Technology Stack
 
-  Layer                      Technology
-  -------------------------- --------------------------
-  Frontend                   HTML5, CSS3, JavaScript
-  Backend                    PHP
-  Database                   MySQL-compatible MariaDB
-  Database Administration    phpMyAdmin
-  Local Development Server   Apache (XAMPP)
-  Version Control            Git and GitHub
+| Layer | Technology |
+| --- | --- |
+| Frontend | HTML5, CSS3, JavaScript |
+| Backend | PHP |
+| Database | MySQL-compatible MariaDB |
+| Database Administration | phpMyAdmin |
+| Local Development Server | Apache (XAMPP) |
+| Version Control | Git and GitHub |
 
 ## 💻 Requirements
 
