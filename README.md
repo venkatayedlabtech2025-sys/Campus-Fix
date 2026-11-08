@@ -27,6 +27,11 @@ The application uses **PHP** for server-side processing and a
 **MySQL-compatible database** for storing application data. It is
 designed as an academic project and runs locally using **XAMPP**.
 
+## 🌐 Live Demo
+
+Explore the CampusFix application using the demo link below:
+
+**[Open CampusFix Live Demo](http://campusfix.rf.gd)**
 ## 🎯 Project Objectives
 
 -   Provide students with a simple platform to submit campus complaints.
